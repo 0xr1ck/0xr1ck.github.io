@@ -1,4 +1,4 @@
-# Hacker Blog
+# R1cks Blog Template
 
 A Jekyll-based security blog hosted on GitHub Pages with Tokyo Night theme.
 
