@@ -1,7 +1,7 @@
-title: "Shadow Ops Blog"
-description: "Security Research & Vulnerability Analysis"
+title: "0xr1ck Blog"
+description: "Security Research & Engineering"
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://0xr1ck.github.io"
 
 markdown: kramdown
 highlighter: rouge
