@@ -15,11 +15,11 @@ breaking and fixing for fun & profits and if you have any questions or comments 
 
 ## Focus Areas
 
-- **Binary Exploitation** - Memory corruption, ROP chains, heap exploitation
-- **Web Application Security** - OWASP Top 10, API security, client-side attacks  
+- **Malware Analysis && Reverse Engineering** - Memory corruption, ROP chains, heap exploitatio, Reverse engineering, dynamic analysis, threat hunting
+- **Web Application Security && Open Source Intelligence** - OWASP Top 10, API security, client-side attacks, osints  
 - **Network Penetration** - Active Directory, lateral movement, privilege escalation
 - **Malware Analysis** - Reverse engineering, dynamic analysis, threat hunting
-- **Red Team Operations** - C2 frameworks, OPSEC, social engineering
+- **Red Teaming** - C2 frameworks, OPSEC, social engineering
 
 ---
 
