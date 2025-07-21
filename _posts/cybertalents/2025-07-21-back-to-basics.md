@@ -13,7 +13,8 @@ site = http://wcamxwl32pue3e6mg1y3e2ptxvm6qyz8l9o8u93w-web.cybertalentslabs.com/
 - and what causes that 
 ## Recon 
 
-```html
+```
+html
 running apache 2.4.38 
 os = debian 
 html page due to index.html 
@@ -23,7 +24,9 @@ html page due to index.html
 - site doesn't allow view-source 
 - curl works all the time 
 - checked site source 
-```html 
+
+```
+html 
 <!DOCTYPE html>
 
 <html>
