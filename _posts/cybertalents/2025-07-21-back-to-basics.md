@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Back to Basics"
+title: "Back to Basics - CyberTalents (web)"
 date: 2025-07-21
 categories: [Web]
 ---
+
+# Back to Basics - CyberTalents (web)
 
 brief `Light up the darkness` 
 
