@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Back to Basics"
+date: 2025-07-21
+categories: [Web]
+---
 
 # web - back to basics
 
