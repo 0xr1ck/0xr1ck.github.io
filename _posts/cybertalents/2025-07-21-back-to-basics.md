@@ -13,8 +13,7 @@ site = http://wcamxwl32pue3e6mg1y3e2ptxvm6qyz8l9o8u93w-web.cybertalentslabs.com/
 - and what causes that 
 ## Recon 
 
-```
-html
+```html
 running apache 2.4.38 
 os = debian 
 html page due to index.html 
@@ -25,8 +24,7 @@ html page due to index.html
 - curl works all the time 
 - checked site source 
 
-```
-html 
+```html 
 <!DOCTYPE html>
 
 <html>
@@ -103,10 +101,10 @@ html
 </html>
 ```
 
-- `disable.js` looks intresting 
-- curl ``site.com/disable.js``
+- ```disable.js``` looks intresting 
+- curl ```site.com/disable.js```
 - gives us the flag 
-`FLAG{OkaY_I_FailEd_tO_kEEp_yOu_awAy_hEre_iS_yOur_fLAg} `
+```FLAG{OkaY_I_FailEd_tO_kEEp_yOu_awAy_hEre_iS_yOur_fLAg} ```
 
 - what cause it
 
