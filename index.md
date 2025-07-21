@@ -23,4 +23,4 @@ for fun & profits and if you have any questions or comments you know what to do.
 
 ---
 
-*"The best way to secure a system is to think like an attacker."*
+*"There is a crack in everything. That's how the light gets in" - L Cohen.*
