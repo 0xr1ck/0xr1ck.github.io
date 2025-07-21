@@ -1,0 +1,20 @@
+title: "Shadow Ops Blog"
+description: "Security Research & Vulnerability Analysis"
+baseurl: ""
+url: "https://yourusername.github.io"
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+permalink: /:categories/:year/:month/:day/:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Tokyo Night theme colors
+theme_color: "#7aa2f7"
