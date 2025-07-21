@@ -4,7 +4,8 @@ title: Home
 ---
 
 # Welcome 
-This is where I document my journey through - vulnerability research, exploit development, and defensive strategies.
+This is where I document my journey through - vulnerability research, exploit development, CTFs, Bug bounty hunting and more
+breaking and fixing for fun & profits and if you have any questions or comments you know what to do....!
 
 ## Latest Posts
 
