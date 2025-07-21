@@ -18,7 +18,7 @@ Security researcher and Engineer with focus on:
 
 - Email: 0xal3x1s@gmail.com
 - GitHub: https://github.com/0xr1ck
-- Linkedin: https://www.linkedin.com/in/alagie-t-0958ab17b/
+- Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alagie-t-0958ab17b/) 
 ---
 
 *Responsible disclosure. Ethical hacking. Security through knowledge.*
