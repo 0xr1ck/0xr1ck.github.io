@@ -5,8 +5,6 @@ date: 2025-07-21
 categories: [Web]
 ---
 
-# conCmarks - cybertalents (web)
-
 Brief `it might be useful to find a mark ` 
 
 - to find the mark 
