@@ -5,24 +5,32 @@ date: 2025-07-21
 categories: [Web]
 ---
 
-# Light up the darkness - CTF Writeup
+# Web - Back to Basics
 
-**Site:** `http://wcamxwl32pue3e6mg1y3e2ptxvm6qyz8l9o8u93w-web.cybertalentslabs.com/`  
-**Objective:** Find the hidden flag and explain what causes it to appear.
+## Challenge: Light up the darkness
+
+**Site:** `http://wcamxwl32pue3e6mg1y3e2ptxvm6qyz8l9o8u93w-web.cybertalentslabs.com/`
+
+**Objective:**  
+Find the flag and determine what causes it to appear.
 
 ## Reconnaissance
 
-- **Server:** Apache 2.4.38 (Debian)
-- **Page Source:** Disabled via JavaScript
-- **Key Restrictions:**
-  - Right-click disabled (triggers alert)
-  - View-source blocked (Ctrl+U disabled)
-  - Copy/paste prevention (Ctrl+C/Ctrl+V blocked)
+```sql
+Running Apache 2.4.38 
+OS = Debian 
+HTML page served via index.html
 
-## Analysis
+Key Observations:
 
-### HTML Structure
-```html
+    View-source is blocked
+
+    curl works reliably
+
+    Site source reveals interesting restrictions:
+
+html
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -42,18 +50,8 @@ categories: [Web]
     </body>
 </html>
 
-Key Findings:
-
-    disable.js is loaded (suspicious behavior)
-
-    Event Listeners block:
-
-        Right-click (contextmenu)
-
-        Keyboard shortcuts (Ctrl+C, Ctrl+V, Ctrl+U)
-
 Exploitation
-Step 1: Bypass Restrictions
+Step 1: Investigate disable.js
 bash
 
 curl http://target-site/disable.js
@@ -69,28 +67,28 @@ document.addEventListener('contextmenu', function(e) {
     // FLAG{OkaY_I_FailEd_tO_kEEp_yOu_awAy_hEre_iS_yOur_fLAg} 
 });
 
-Flag
+Solution
+Found Flag:
 text
 
 FLAG{OkaY_I_FailEd_tO_kEEp_yOu_awAy_hEre_iS_yOur_fLAg}
 
-Vulnerability
+Vulnerability:
 
-    Improper Client-Side Security:
-    Hiding sensitive information in client-side JavaScript files is insecure as:
+    Client-Side Security Fail:
 
-        Users can bypass front-end restrictions
+        Flag stored in client-side JavaScript
 
-        All client-side resources are publicly accessible
+        Right-click prevention is easily bypassed
 
-        Obfuscation is not a security measure
+        Security through obscurity is ineffective
 
-Secure Alternatives
+Key Takeaways
 
-    Store flags server-side
+    Never store sensitive data in client-side code
 
-    Implement proper authentication
+    Client-side restrictions can always be bypassed
 
-    Use Content Security Policies (CSP)
+    Proper security requires server-side validation
 
-    Avoid security-through-obscurity
+Tags: #CTF #WebSecurity #ClientSideVulnerabili
