@@ -119,19 +119,14 @@ document.addEventListener('contextmenu', function(e) {
 Vulnerability:
 
     Client-Side Security Fail:
-
         Flag stored in client-side JavaScript
-
         Right-click prevention is easily bypassed
-
         Security through obscurity is ineffective
 
 Key Takeaways
 
     Never store sensitive data in client-side code
-
     Client-side restrictions can always be bypassed
-
     Proper security requires server-side validation
 
 Tags: #CTF #WebSecurity #ClientSideVulnerability
