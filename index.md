@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to my blog
-
+# Welcome 
 This is where I document my journey through - vulnerability research, exploit development, and defensive strategies.
 
 ## Latest Posts
