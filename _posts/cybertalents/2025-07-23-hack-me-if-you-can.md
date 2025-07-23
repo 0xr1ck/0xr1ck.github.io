@@ -1,9 +1,10 @@
+---
 layout: post
 title: "Hack me if you can - CyberTalents (web)"
 date: 2025-07-23
 categories: [Web]
-
-# web - hack me if you can
+---
+# hack me if you can - CyberTalents (web) 
 
 brief `find the rce to get access to the system`
 
