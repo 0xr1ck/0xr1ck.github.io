@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "remote CVE - CyberTalents (web)"
-date: 2025-07-23
 categories: [Web]
 ---
 
