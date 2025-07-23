@@ -32,7 +32,6 @@ X-Content-Type-Options: nosniff
 Content-Language: en
 X-Frame-Options: SAMEORIGIN
 X-Generator: Drupal 7 (http://drupal.org)
-
 drupal 7
 ``` 
 
