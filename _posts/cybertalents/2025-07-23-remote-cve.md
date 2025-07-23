@@ -1,8 +1,11 @@
+---
 layout: post
 title: "remote CVE - CyberTalents (web)"
 date: 2025-07-23
 categories: [Web]
-# web - remote-cve
+---
+
+# remote CVE - CyberTalents (web)
 
 Brief `what's CVE ID could be used against the web application in the below target NOTE: it's an unauthenticated RCE vulnerability`
 
