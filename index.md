@@ -17,7 +17,6 @@ for fun & profits and if you have any questions or comments you know what to do.
 
 - **Malware Analysis && Reverse Engineering** - Memory corruption, ROP chains, heap exploitatio, Reverse engineering, dynamic analysis, threat hunting
 - **Web Application Security && Open Source Intelligence** - OWASP Top 10, API security, client-side attacks, osints  
-- **Network Penetration** - Active Directory, lateral movement, privilege escalation
 - **Malware Analysis** - Reverse engineering, dynamic analysis, threat hunting
 - **Red Teaming** - C2 frameworks, OPSEC, social engineering
 
