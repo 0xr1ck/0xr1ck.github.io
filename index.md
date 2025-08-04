@@ -15,10 +15,10 @@ for fun & profits and if you have any questions or comments you know what to do.
 
 ## Focus Areas
 
-- **Malware Analysis && Reverse Engineering** - Memory corruption, ROP chains, heap exploitatio, Reverse engineering, dynamic analysis, threat hunting
-- **Web Application Security && Open Source Intelligence** - OWASP Top 10, API security, client-side attacks, osints  
+- **Reverse Engineering && Exploit Dev** - Memory corruption, ROP chains, heap exploitations, POCs or GTFO
+- **Web Application Security && Open Source Intelligence** - OWASP Top 10, API security, client && server-side attacks, osints investigations 
 - **Malware Analysis** - Reverse engineering, dynamic analysis, threat hunting
-- **Red Teaming** - C2 frameworks, OPSEC, social engineering
+- **Red Teaming** - C2 frameworks, OPSEC, social engineering, Post Exploitation
 
 ---
 
