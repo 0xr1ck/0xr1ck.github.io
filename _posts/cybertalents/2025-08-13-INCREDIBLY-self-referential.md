@@ -11,7 +11,7 @@ categories: [Web]
 decription : Discover my newest EC2 web service – it features an impressively self-referential element!
 ```
 
-![incredible 1.jpg](https://github.com/0xr1ck/0xr1ck.github.io/blob/main/_posts/cybertalents/img/incredible%201.jpg)
+![incredible 1.jpg](https://github.com/0xr1ck/0xr1ck.github.io/blob/main/_posts/cybertalents/img/incredible%201.jpghttps://github.com/0xr1ck/0xr1ck.github.io/blob/main/_posts/cybertalents/img/burp%201.jpg?raw=true)
 
 lets get to it, EC2-instance??  vists the site 
 
