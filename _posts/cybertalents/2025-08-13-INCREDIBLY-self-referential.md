@@ -1,5 +1,4 @@
-
----
+----
 layout: post
 title: "INCREDIBLY self-referential  - EcowasCTF - 2023 quals (web)"
 date: 2025-08-13
@@ -33,4 +32,3 @@ base64 decoded it in burp suite decode ```aW5mbwpzZWN1cml0eS1jcmVkZW50aWFscy``` 
 ```
 flag{thats_the_most_effective_tactic_available}
 ```
-
