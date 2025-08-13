@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "INCREDIBLY self-referential  - EcowasCTF - 2023 quals (web)"
