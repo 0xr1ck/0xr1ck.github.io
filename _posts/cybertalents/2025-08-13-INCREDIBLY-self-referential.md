@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: "INCREDIBLY self-referential  - EcowasCTF - 2023 quals (web)"
 date: 2025-08-13
