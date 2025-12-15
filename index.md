@@ -5,7 +5,7 @@ title: Home
 
 # Welcome 
 This is where I document my journey through - vulnerability research, exploit development, CTFs, Bug bounty hunting and more
-for fun & profits and if you have any questions or comments you know what to do....!
+for fun & profits and if you have any questions or comments you know what to do.!
 
 ## Latest Posts
 
@@ -15,10 +15,7 @@ for fun & profits and if you have any questions or comments you know what to do.
 
 ## Focus Areas
 
-- **Reverse Engineering && Exploit Dev** - Memory corruption, ROP chains, heap exploitations, POCs or GTFO
-- **Web Application Security && Open Source Intelligence** - OWASP Top 10, API security, client && server-side attacks, osints investigations 
-- **Malware Analysis** - Reverse engineering, dynamic analysis, threat hunting
-- **Red Teaming** - C2 frameworks, OPSEC, social engineering, Post Exploitation
+- **Reverse Engineering** - **Web Application Security** - **Open Source Intelligence [OSINT]** - **Exploit Dev && Malware Analysis**  - **Red Teaming** 
 
 ---
 
